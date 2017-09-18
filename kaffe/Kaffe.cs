@@ -39,6 +39,11 @@ namespace kaffe
             this.Rabat = rabat;
         }
 
+        public void Method()
+        {
+            // min method zuhair
+        }
+
 
     }
 }
